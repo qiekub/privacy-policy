@@ -26,3 +26,6 @@ Ein paar Gedanken dazu, wie ich nicht in einer Ellen-langen Datenschutzbestimmun
 We can use Github for the version history.
 Example: https://github.com/Uberspace/lab/commits/master/source/guide_ghost.rst
 To make this easy, every section should be a seperate file.
+
+Here's how github did it: https://github.com/github/site-policy/
+
