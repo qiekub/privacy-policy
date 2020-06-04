@@ -1,0 +1,23 @@
+%YAML 1.2
+---
+heading:
+  de: Titel
+  en: Title
+consent:
+  __session:
+    title:
+      de:
+      en:
+    description:
+summary:
+  de: "..."
+  en: "..."
+...
+
+
+[](consent_ref "__session")
+
+[](yaml "
+fghjg\"khljj
+fdfgjll()[]{}:''#
+")
